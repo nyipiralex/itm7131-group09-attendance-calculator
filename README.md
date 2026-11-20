@@ -4,8 +4,7 @@
 **Institution:** Muni University, Faculty of Technoscience  
 **Group:** 9  
 **Application name:** AttendTrack – Student Attendance and Participation Calculator  
-**Live application:** _Add your deployed GitHub Pages or Netlify URL here_  
-**Demonstration video:** _Add your unlisted YouTube URL here_
+
 
 ## 1. Project overview
 
