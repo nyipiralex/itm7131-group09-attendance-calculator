@@ -66,14 +66,14 @@ The application is front-end only and can be hosted using GitHub Pages or Netlif
 
 The names below are reproduced from the ITM 7131 Group Project Submission Brief for Group 9. Add each member's registration number and confirm the spelling before submission.
 
-| No. | Member name | Registration number | Individual responsibility |
-|---:|---|---|---|
-| 1 | Queen Nancy | _Add registration number_ | _Confirm actual contribution_ |
-| 2 | Odama Marvin Jeremiah | _2601202481_ | _Confirm actual contribution_ |
-| 3 | Aita Derick | _2601202500_ | _Confirm actual contribution_ |
-| 4 | Nyipir Alex | _2601202188_ | _Confirm actual contribution_ |
-| 5 | Mercy Freda | _2501202338_ | _Confirm actual contribution_ |
-| 6 | Shaban Anago | _2601200835_ | _Confirm actual contribution_ |
+| No. | Member name | Registration number |
+|---:|---|---|
+| 1 | Queen Nancy | _Add registration number_ |
+| 2 | Odama Marvin Jeremiah | _2601202481_ |
+| 3 | Aita Derick | _2601202500_ |
+| 4 | Nyipir Alex | _2601202188_ |
+| 5 | Mercy Freda | _2501202338_ |
+| 6 | Shaban Anago | _2601200835_ |
 
 Do not claim work or commits for a member unless that member actually completed them. Update this table to match the group's agreed contribution record and GitHub history.
 
