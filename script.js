@@ -1,8 +1,4 @@
 
-/* =====================================================
-   GROUP 9: STUDENT ATTENDANCE AND PARTICIPATION CALCULATOR
-   Browser-side JavaScript using sample data
-   ===================================================== */
 
 /* 1. Application settings and sample records */
 
