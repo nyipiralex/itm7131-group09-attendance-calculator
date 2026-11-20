@@ -67,7 +67,7 @@ The names below are reproduced from the ITM 7131 Group Project Submission Brief 
 
 | No. | Member name | Registration number |
 |---:|---|---|
-| 1 | Queen Nancy | _Add registration number_ |
+| 1 | Queen Nancy | _2601200843_ |
 | 2 | Odama Marvin Jeremiah | _2601202481_ |
 | 3 | Aita Derick | _2601202500_ |
 | 4 | Nyipir Alex | _2601202188_ |
