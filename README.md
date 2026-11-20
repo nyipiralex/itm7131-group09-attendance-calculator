@@ -69,11 +69,11 @@ The names below are reproduced from the ITM 7131 Group Project Submission Brief 
 | No. | Member name | Registration number | Individual responsibility |
 |---:|---|---|---|
 | 1 | Queen Nancy | _Add registration number_ | _Confirm actual contribution_ |
-| 2 | Odama Marvin Jeremiah | _Add registration number_ | _Confirm actual contribution_ |
-| 3 | Aita Derick | _Add registration number_ | _Confirm actual contribution_ |
-| 4 | Nyipir Alex | _Add registration number_ | _Confirm actual contribution_ |
-| 5 | Mercy Freda | _Add registration number_ | _Confirm actual contribution_ |
-| 6 | Shaban Anago | _Add registration number_ | _Confirm actual contribution_ |
+| 2 | Odama Marvin Jeremiah | _2601202481_ | _Confirm actual contribution_ |
+| 3 | Aita Derick | _2601202500_ | _Confirm actual contribution_ |
+| 4 | Nyipir Alex | _2601202188_ | _Confirm actual contribution_ |
+| 5 | Mercy Freda | _2501202338_ | _Confirm actual contribution_ |
+| 6 | Shaban Anago | _2601200835_ | _Confirm actual contribution_ |
 
 Do not claim work or commits for a member unless that member actually completed them. Update this table to match the group's agreed contribution record and GitHub history.
 
